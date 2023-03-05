@@ -1,1 +1,3 @@
 # PJ-CNN-FMT
+
+This started off as a project to showcase my interest in mathematics, in the hopes of gaining admission into a university; doing what I love-Mathematics. After all, Programming is math being applied. I got the idea to do Neural Networks from a short paper I read about DeepMind and its dominance over other engines in trivial games such as Go and Chess. I found it fascinating that an AI could play the game in a way that humans could not. It broke rules that we do not dare to, thereby in the procees, showed that the rules that which we held sacred were not as important as we thought. Welcome to my little journey into AI.  
